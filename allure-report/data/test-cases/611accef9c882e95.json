@@ -1,0 +1,166 @@
+{
+  "uid" : "611accef9c882e95",
+  "name" : "Check if the user is able to sign up with empty name field",
+  "fullName" : "src/test/resources/Features/Signup.feature:63",
+  "historyId" : "72c0b0536a697f792c3f40cba03a6954",
+  "time" : {
+    "start" : 1702426778100,
+    "stop" : 1702426815013,
+    "duration" : 36913
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "stepdefinitions.Hooks.initializeWebdriver()",
+    "time" : {
+      "start" : 1702426778114,
+      "stop" : 1702426811991,
+      "duration" : 33877
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  The user is in the sign up page",
+      "time" : {
+        "start" : 1702426811993,
+        "stop" : 1702426813913,
+        "duration" : 1920
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When  The user enters details in the sign up page leaving the name field unselected",
+      "time" : {
+        "start" : 1702426813914,
+        "stop" : 1702426814651,
+        "duration" : 737
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  The user clicks on submit button",
+      "time" : {
+        "start" : 1702426814651,
+        "stop" : 1702426814745,
+        "duration" : 94
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  The error message to fill fields is displayed",
+      "time" : {
+        "start" : 1702426814746,
+        "stop" : 1702426814794,
+        "duration" : 48
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepdefinitions.Hooks.closedriver()",
+    "time" : {
+      "start" : 1702426814795,
+      "stop" : 1702426815013,
+      "duration" : 218
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "tag"
+  }, {
+    "name" : "tag",
+    "value" : "negativeesignup2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JSLH211"
+  }, {
+    "name" : "thread",
+    "value" : "35184@DESKTOP-JSLH211.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "story",
+    "value" : "Check if the user is able to sign up with empty name field"
+  }, {
+    "name" : "suite",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Check if the user is able to sign up with empty name field"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.Signup_feature.Signup Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "tag", "negativeesignup2" ]
+  },
+  "source" : "611accef9c882e95.json",
+  "parameterValues" : [ ]
+}

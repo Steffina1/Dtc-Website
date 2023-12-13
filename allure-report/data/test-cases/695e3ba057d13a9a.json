@@ -1,0 +1,166 @@
+{
+  "uid" : "695e3ba057d13a9a",
+  "name" : "Check if the user is able to sign up with special characters in the thanksgiving field",
+  "fullName" : "src/test/resources/Features/Signup.feature:120",
+  "historyId" : "7d47d475da6d34060d24e5be9bbd80d7",
+  "time" : {
+    "start" : 1702427262463,
+    "stop" : 1702427316352,
+    "duration" : 53889
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "stepdefinitions.Hooks.initializeWebdriver()",
+    "time" : {
+      "start" : 1702427262463,
+      "stop" : 1702427312783,
+      "duration" : 50320
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  The user is in the sign up page",
+      "time" : {
+        "start" : 1702427312783,
+        "stop" : 1702427314783,
+        "duration" : 2000
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When  The user enters all details and special characters in thanksgiving field",
+      "time" : {
+        "start" : 1702427314783,
+        "stop" : 1702427315873,
+        "duration" : 1090
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  The user clicks on submit button",
+      "time" : {
+        "start" : 1702427315874,
+        "stop" : 1702427315951,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  The error message for special characters should appear in the sign up page",
+      "time" : {
+        "start" : 1702427315952,
+        "stop" : 1702427315962,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepdefinitions.Hooks.closedriver()",
+    "time" : {
+      "start" : 1702427315962,
+      "stop" : 1702427316351,
+      "duration" : 389
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "tag"
+  }, {
+    "name" : "tag",
+    "value" : "negativeesignup12"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JSLH211"
+  }, {
+    "name" : "thread",
+    "value" : "35804@DESKTOP-JSLH211.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "story",
+    "value" : "Check if the user is able to sign up with special characters in the thanksgiving field"
+  }, {
+    "name" : "suite",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Check if the user is able to sign up with special characters in the thanksgiving field"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.Signup_feature.Signup Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "negativeesignup12", "tag" ]
+  },
+  "source" : "695e3ba057d13a9a.json",
+  "parameterValues" : [ ]
+}

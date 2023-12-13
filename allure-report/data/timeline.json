@@ -1,0 +1,1056 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-JSLH211",
+    "children" : [ {
+      "name" : "35804@DESKTOP-JSLH211.main(1)",
+      "children" : [ {
+        "name" : "Check if the user is able to sign up with thanksgiving field empty",
+        "uid" : "a6433e04aaf58f9f",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427199490,
+          "stop" : 1702427235929,
+          "duration" : 36439
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with family intention field empty",
+        "uid" : "c735710ff5587b2c",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427243388,
+          "stop" : 1702427253145,
+          "duration" : 9757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with special characters in the repose of souls field",
+        "uid" : "13a7ec8826441d73",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427316373,
+          "stop" : 1702427332229,
+          "duration" : 15856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to view the details in the view guests page",
+        "uid" : "5333197ca8f107e4",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427113159,
+          "stop" : 1702427129174,
+          "duration" : 16015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty kids count field",
+        "uid" : "bf3d48d34c39bac3",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427191906,
+          "stop" : 1702427199466,
+          "duration" : 7560
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty adult count field",
+        "uid" : "59bd5b018ba3d10c",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "failed",
+        "time" : {
+          "start" : 1702427182704,
+          "stop" : 1702427191885,
+          "duration" : 9181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with special characters in the thanksgiving field",
+        "uid" : "695e3ba057d13a9a",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427262463,
+          "stop" : 1702427316352,
+          "duration" : 53889
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click the cancel button in confirmation box",
+        "uid" : "d1a0d86f93b5a124",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426969559,
+          "stop" : 1702426977110,
+          "duration" : 7551
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click the confirmation box",
+        "uid" : "b9aa5186aeae759f",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426959377,
+          "stop" : 1702426969532,
+          "duration" : 10155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with incorrect passcode",
+        "uid" : "f8e2b6a4575805ad",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427141492,
+          "stop" : 1702427161698,
+          "duration" : 20206
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on success pop up window",
+        "uid" : "4e95dbe0711f66b",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426977146,
+          "stop" : 1702427082076,
+          "duration" : 104930
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty family count field",
+        "uid" : "d048b1b25b7ee4e5",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427175357,
+          "stop" : 1702427182685,
+          "duration" : 7328
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty name field",
+        "uid" : "41ac19798b1515b9",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427161721,
+          "stop" : 1702427167863,
+          "duration" : 6142
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on the email if there is no passcode",
+        "uid" : "cc38ea69dab9a150",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427082105,
+          "stop" : 1702427103340,
+          "duration" : 21235
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up again",
+        "uid" : "b36845dbc9d1e12",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427253161,
+          "stop" : 1702427262446,
+          "duration" : 9285
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on View Guests",
+        "uid" : "5e2f6f567c9d707f",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "failed",
+        "time" : {
+          "start" : 1702427129205,
+          "stop" : 1702427141457,
+          "duration" : 12252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with repose of souls field empty",
+        "uid" : "7243eb8cffa6b699",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427235956,
+          "stop" : 1702427243366,
+          "duration" : 7410
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up for mass",
+        "uid" : "f95a8c257ea2297d",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426950748,
+          "stop" : 1702426959346,
+          "duration" : 8598
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with special characters in the family intentions field",
+        "uid" : "50199b7ddb634cb3",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427332251,
+          "stop" : 1702427338859,
+          "duration" : 6608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click sign up",
+        "uid" : "6742d3dbe0f53e6e",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426936673,
+          "stop" : 1702426950580,
+          "duration" : 13907
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on Back to signup page",
+        "uid" : "4dc3cc27ad3697d",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427103525,
+          "stop" : 1702427113038,
+          "duration" : 9513
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty attend field",
+        "uid" : "456b996413abd92e",
+        "parentUid" : "ded97d7094be2bf136411d8546b66736",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702427167885,
+          "stop" : 1702427175333,
+          "duration" : 7448
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ded97d7094be2bf136411d8546b66736"
+    }, {
+      "name" : "35184@DESKTOP-JSLH211.main(1)",
+      "children" : [ {
+        "name" : "Check if the user is able to click on Back to signup page",
+        "uid" : "9d95f44a57d1a426",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426596335,
+          "stop" : 1702426608667,
+          "duration" : 12332
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty kids count field",
+        "uid" : "8f1efd7c479df30f",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1702426839925,
+          "stop" : 1702426842361,
+          "duration" : 2436
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click the cancel button in confirmation box",
+        "uid" : "4b4bec9c03f65649",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426419796,
+          "stop" : 1702426433682,
+          "duration" : 13886
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up for mass",
+        "uid" : "7915dc652308bda6",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426392077,
+          "stop" : 1702426405422,
+          "duration" : 13345
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty name field",
+        "uid" : "611accef9c882e95",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426778100,
+          "stop" : 1702426815013,
+          "duration" : 36913
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on success pop up window",
+        "uid" : "d3270b51636fe24e",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426433708,
+          "stop" : 1702426479731,
+          "duration" : 46023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to view the details in the view guests page",
+        "uid" : "834bbca9730fb10e",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1702426608714,
+          "stop" : 1702426622037,
+          "duration" : 13323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty attend field",
+        "uid" : "622968dc25bc37d2",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426815041,
+          "stop" : 1702426825959,
+          "duration" : 10918
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty adult count field",
+        "uid" : "23370d4995383b7e",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1702426835788,
+          "stop" : 1702426839847,
+          "duration" : 4059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with incorrect passcode",
+        "uid" : "866c31b3d7175a1e",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426769971,
+          "stop" : 1702426778077,
+          "duration" : 8106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on the email if there is no passcode",
+        "uid" : "89e41f1b8b53e53a",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426479763,
+          "stop" : 1702426596311,
+          "duration" : 116548
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty family count field",
+        "uid" : "4df15bc443c4888b",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1702426825994,
+          "stop" : 1702426835722,
+          "duration" : 9728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on View Guests",
+        "uid" : "4fa51095e46f2284",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1702426622080,
+          "stop" : 1702426769941,
+          "duration" : 147861
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click sign up",
+        "uid" : "be9705677d6fe6fb",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426379739,
+          "stop" : 1702426391906,
+          "duration" : 12167
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click the confirmation box",
+        "uid" : "614f60cd923ad4b9",
+        "parentUid" : "d6f78f9b0ce20f3800e386e95533ce3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702426405451,
+          "stop" : 1702426419760,
+          "duration" : 14309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d6f78f9b0ce20f3800e386e95533ce3d"
+    }, {
+      "name" : "38272@DESKTOP-JSLH211.main(1)",
+      "children" : [ {
+        "name" : "Check if the user is able to sign up with thanksgiving field empty",
+        "uid" : "1869afab9ab31b76",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441996780,
+          "stop" : 1702442005470,
+          "duration" : 8690
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty name field",
+        "uid" : "43cb75914fa1a9bb",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441928543,
+          "stop" : 1702441953942,
+          "duration" : 25399
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on success pop up window",
+        "uid" : "f895e6ffe42013e2",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441693783,
+          "stop" : 1702441701570,
+          "duration" : 7787
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click the cancel button in confirmation box",
+        "uid" : "3ccb79623ed3d3c4",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441594692,
+          "stop" : 1702441693758,
+          "duration" : 99066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to view the details in the view guests page",
+        "uid" : "b72b1fc3971d8556",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441828242,
+          "stop" : 1702441844800,
+          "duration" : 16558
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click sign up",
+        "uid" : "a1ead75d801d570c",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441445429,
+          "stop" : 1702441480478,
+          "duration" : 35049
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on Back to signup page",
+        "uid" : "7376b6ad56ed83ea",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441720126,
+          "stop" : 1702441828221,
+          "duration" : 108095
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty attend field",
+        "uid" : "f36eced72da4b392",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441953959,
+          "stop" : 1702441961347,
+          "duration" : 7388
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with incorrect passcode",
+        "uid" : "dd82424950d4a5e",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441893396,
+          "stop" : 1702441928513,
+          "duration" : 35117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on the email if there is no passcode",
+        "uid" : "a04d4aa82f4a3edb",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441701593,
+          "stop" : 1702441719957,
+          "duration" : 18364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty family count field",
+        "uid" : "be40848fb60f9950",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441961369,
+          "stop" : 1702441967098,
+          "duration" : 5729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on View Guests",
+        "uid" : "d2d2d2426274bcb9",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1702441844822,
+          "stop" : 1702441893371,
+          "duration" : 48549
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with repose of souls field empty",
+        "uid" : "8cf5007701e86927",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702442005494,
+          "stop" : 1702442020167,
+          "duration" : 14673
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty adult count field",
+        "uid" : "3c73dea6785df3b3",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1702441967117,
+          "stop" : 1702441976630,
+          "duration" : 9513
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up again",
+        "uid" : "47c76888ba398b19",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702442054795,
+          "stop" : 1702442090154,
+          "duration" : 35359
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty kids count field",
+        "uid" : "d51bafdf23ca9819",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441976647,
+          "stop" : 1702441996758,
+          "duration" : 20111
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with family intention field empty",
+        "uid" : "ed796b3f15e2b6c0",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702442020183,
+          "stop" : 1702442054781,
+          "duration" : 34598
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up for mass",
+        "uid" : "6b098e5f16948115",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441480662,
+          "stop" : 1702441492800,
+          "duration" : 12138
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click the confirmation box",
+        "uid" : "f3ac942d8767c043",
+        "parentUid" : "75f2f65a334d839ed6ddc860a980d82b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702441493137,
+          "stop" : 1702441594665,
+          "duration" : 101528
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "75f2f65a334d839ed6ddc860a980d82b"
+    }, {
+      "name" : "33780@DESKTOP-JSLH211.main(1)",
+      "children" : [ {
+        "name" : "Check if the user is able to view the details in the view guests page",
+        "uid" : "dc893b6f53fa311a",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439434079,
+          "stop" : 1702439456675,
+          "duration" : 22596
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up again",
+        "uid" : "daf31228106038bb",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439846183,
+          "stop" : 1702439853941,
+          "duration" : 7758
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click the cancel button in confirmation box",
+        "uid" : "f35c9cd258af848e",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439376003,
+          "stop" : 1702439387829,
+          "duration" : 11826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on the email if there is no passcode",
+        "uid" : "1487230102e66f4c",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439397756,
+          "stop" : 1702439418698,
+          "duration" : 20942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty family count field",
+        "uid" : "27fecb9db5c85f32",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439543295,
+          "stop" : 1702439552481,
+          "duration" : 9186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with repose of souls field empty",
+        "uid" : "2fdb49b9ca9e82aa",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439781402,
+          "stop" : 1702439793128,
+          "duration" : 11726
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on Back to signup page",
+        "uid" : "2f9e202735060b1c",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439418885,
+          "stop" : 1702439434059,
+          "duration" : 15174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty attend field",
+        "uid" : "4390c1cb8e17e8e4",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439532374,
+          "stop" : 1702439543277,
+          "duration" : 10903
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with special characters in the thanksgiving field",
+        "uid" : "768f942f89962993",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439853957,
+          "stop" : 1702439861343,
+          "duration" : 7386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty kids count field",
+        "uid" : "c69cdc04bde213b4",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439562023,
+          "stop" : 1702439715213,
+          "duration" : 153190
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with special characters in the repose of souls field",
+        "uid" : "f4fd6ea7a1e5c7fd",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "broken",
+        "time" : {
+          "start" : 1702439861358,
+          "stop" : 1702440062144,
+          "duration" : 200786
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with special characters in the family intentions field",
+        "uid" : "d566d60c009e4c00",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1702440062170,
+          "stop" : 1702440249110,
+          "duration" : 186940
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click sign up",
+        "uid" : "300be6b0d8b48097",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439246954,
+          "stop" : 1702439290373,
+          "duration" : 43419
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up for mass",
+        "uid" : "7d6e5c82be15a16a",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439290589,
+          "stop" : 1702439315354,
+          "duration" : 24765
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click the confirmation box",
+        "uid" : "c8a8bd3613b691fd",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439315382,
+          "stop" : 1702439375976,
+          "duration" : 60594
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with thanksgiving field empty",
+        "uid" : "89aff536f5db649f",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439715234,
+          "stop" : 1702439781378,
+          "duration" : 66144
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty adult count field",
+        "uid" : "9bfa37aae172675a",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "failed",
+        "time" : {
+          "start" : 1702439552493,
+          "stop" : 1702439562005,
+          "duration" : 9512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on View Guests",
+        "uid" : "54dae60c53be567c",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "failed",
+        "time" : {
+          "start" : 1702439456696,
+          "stop" : 1702439517819,
+          "duration" : 61123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with incorrect passcode",
+        "uid" : "80b72777816e37",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439517848,
+          "stop" : 1702439523856,
+          "duration" : 6008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with family intention field empty",
+        "uid" : "ee8c7aeac667b815",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439793143,
+          "stop" : 1702439846165,
+          "duration" : 53022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to sign up with empty name field",
+        "uid" : "5b6214d1596dd25c",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439523880,
+          "stop" : 1702439532360,
+          "duration" : 8480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check if the user is able to click on success pop up window",
+        "uid" : "a61d4fad70f57606",
+        "parentUid" : "1a26aa0fbed8a8c030dc45537ae11c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702439387852,
+          "stop" : 1702439397733,
+          "duration" : 9881
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a26aa0fbed8a8c030dc45537ae11c65"
+    }, {
+      "name" : "38120@DESKTOP-JSLH211.main(1)",
+      "children" : [ {
+        "name" : "Check if the user is able to click sign up",
+        "uid" : "cb3c53c0449770d7",
+        "parentUid" : "b2e971644438ff27f86abd2aecaff7a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702438734394,
+          "stop" : 1702438749501,
+          "duration" : 15107
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b2e971644438ff27f86abd2aecaff7a5"
+    } ],
+    "uid" : "7620d547ceec2d711e4d437e526ff819"
+  } ]
+}

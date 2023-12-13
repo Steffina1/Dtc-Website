@@ -1,0 +1,205 @@
+{
+  "uid" : "3c73dea6785df3b3",
+  "name" : "Check if the user is able to sign up with empty adult count field",
+  "fullName" : "src/test/resources/Features/Signup.feature:81",
+  "historyId" : "ee47ffe8376daed3ba35fccbf1a10836",
+  "time" : {
+    "start" : 1702441967117,
+    "stop" : 1702441976630,
+    "duration" : 9513
+  },
+  "status" : "failed",
+  "statusMessage" : "The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]",
+  "statusTrace" : "java.lang.AssertionError: The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)\r\n\tat stepdefinitions.Sign_SD.the_error_message_to_fill_fields_is_displayed(Sign_SD.java:298)\r\n\tat ✽.The error message to fill fields is displayed(file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature:85)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "stepdefinitions.Hooks.initializeWebdriver()",
+    "time" : {
+      "start" : 1702441967118,
+      "stop" : 1702441973991,
+      "duration" : 6873
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]",
+    "statusTrace" : "java.lang.AssertionError: The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)\r\n\tat stepdefinitions.Sign_SD.the_error_message_to_fill_fields_is_displayed(Sign_SD.java:298)\r\n\tat ✽.The error message to fill fields is displayed(file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature:85)\r\n",
+    "steps" : [ {
+      "name" : "Given  The user is in the sign up page",
+      "time" : {
+        "start" : 1702441973992,
+        "stop" : 1702441975332,
+        "duration" : 1340
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When  The user enters details in the sign up page leaving adult count field unselected",
+      "time" : {
+        "start" : 1702441975332,
+        "stop" : 1702441976349,
+        "duration" : 1017
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  The user clicks on submit button",
+      "time" : {
+        "start" : 1702441976349,
+        "stop" : 1702441976439,
+        "duration" : 90
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  The error message to fill fields is displayed",
+      "time" : {
+        "start" : 1702441976439,
+        "stop" : 1702441976449,
+        "duration" : 10
+      },
+      "status" : "failed",
+      "statusMessage" : "The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]",
+      "statusTrace" : "java.lang.AssertionError: The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)\r\n\tat stepdefinitions.Sign_SD.the_error_message_to_fill_fields_is_displayed(Sign_SD.java:298)\r\n\tat ✽.The error message to fill fields is displayed(file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature:85)\r\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepdefinitions.Hooks.closedriver()",
+    "time" : {
+      "start" : 1702441976450,
+      "stop" : 1702441976629,
+      "duration" : 179
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "tag"
+  }, {
+    "name" : "tag",
+    "value" : "negativeesignup5"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JSLH211"
+  }, {
+    "name" : "thread",
+    "value" : "38272@DESKTOP-JSLH211.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "story",
+    "value" : "Check if the user is able to sign up with empty adult count field"
+  }, {
+    "name" : "suite",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Check if the user is able to sign up with empty adult count field"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.Signup_feature.Signup Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9bfa37aae172675a",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]",
+      "time" : {
+        "start" : 1702439552493,
+        "stop" : 1702439562005,
+        "duration" : 9512
+      }
+    }, {
+      "uid" : "59bd5b018ba3d10c",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]",
+      "time" : {
+        "start" : 1702427182704,
+        "stop" : 1702427191885,
+        "duration" : 9181
+      }
+    }, {
+      "uid" : "23370d4995383b7e",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=120.0.6099.71)\nBuild info: version: '4.12.1', revision: '8e34639b11'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b9970d76e8dd5c780ff16f1ac4e1ae31, getCurrentWindowHandle {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\\Users\\amitf\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53443}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53443/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b9970d76e8dd5c780ff16f1ac4e1ae31",
+      "time" : {
+        "start" : 1702426835788,
+        "stop" : 1702426839847,
+        "duration" : 4059
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "negativeesignup5", "tag" ]
+  },
+  "source" : "3c73dea6785df3b3.json",
+  "parameterValues" : [ ]
+}

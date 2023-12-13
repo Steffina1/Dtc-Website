@@ -1,0 +1,151 @@
+{
+  "uid" : "a61d4fad70f57606",
+  "name" : "Check if the user is able to click on success pop up window",
+  "fullName" : "src/test/resources/Features/Signup.feature:30",
+  "historyId" : "fc96b8fc76a05896ac80f793474e1942",
+  "time" : {
+    "start" : 1702439387852,
+    "stop" : 1702439397733,
+    "duration" : 9881
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "stepdefinitions.Hooks.initializeWebdriver()",
+    "time" : {
+      "start" : 1702439387853,
+      "stop" : 1702439393213,
+      "duration" : 5360
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  The user is in the success pop up window",
+      "time" : {
+        "start" : 1702439393214,
+        "stop" : 1702439396743,
+        "duration" : 3529
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When  The user clicks ok button",
+      "time" : {
+        "start" : 1702439396744,
+        "stop" : 1702439396750,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  Signed up successfully message is displayed",
+      "time" : {
+        "start" : 1702439396755,
+        "stop" : 1702439397389,
+        "duration" : 634
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepdefinitions.Hooks.closedriver()",
+    "time" : {
+      "start" : 1702439397390,
+      "stop" : 1702439397731,
+      "duration" : 341
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "tag"
+  }, {
+    "name" : "tag",
+    "value" : "positivesignup7"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JSLH211"
+  }, {
+    "name" : "thread",
+    "value" : "33780@DESKTOP-JSLH211.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "story",
+    "value" : "Check if the user is able to click on success pop up window"
+  }, {
+    "name" : "suite",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Check if the user is able to click on success pop up window"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.Signup_feature.Signup Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "positivesignup7", "tag" ]
+  },
+  "source" : "a61d4fad70f57606.json",
+  "parameterValues" : [ ]
+}

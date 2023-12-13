@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "b1516c81a0961e79a0e7922dc6ed7447",
+    "name" : "Signup Functionality",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 1,
+      "skipped" : 1,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 22
+    }
+  } ]
+}

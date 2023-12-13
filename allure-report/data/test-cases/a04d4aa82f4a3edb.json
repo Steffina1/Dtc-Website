@@ -1,0 +1,177 @@
+{
+  "uid" : "a04d4aa82f4a3edb",
+  "name" : "Check if the user is able to click on the email if there is no passcode",
+  "fullName" : "src/test/resources/Features/Signup.feature:35",
+  "historyId" : "96652919e2bff94d28de806f8d87dcc8",
+  "time" : {
+    "start" : 1702441701593,
+    "stop" : 1702441719957,
+    "duration" : 18364
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "stepdefinitions.Hooks.initializeWebdriver()",
+    "time" : {
+      "start" : 1702441701593,
+      "stop" : 1702441706853,
+      "duration" : 5260
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  The user is in the homepage",
+      "time" : {
+        "start" : 1702441706854,
+        "stop" : 1702441706855,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When  The user clicks on the coordinators email",
+      "time" : {
+        "start" : 1702441706856,
+        "stop" : 1702441718131,
+        "duration" : 11275
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  The user is navigated to the email page",
+      "time" : {
+        "start" : 1702441718132,
+        "stop" : 1702441718133,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepdefinitions.Hooks.closedriver()",
+    "time" : {
+      "start" : 1702441718134,
+      "stop" : 1702441719956,
+      "duration" : 1822
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "tag"
+  }, {
+    "name" : "tag",
+    "value" : "positivesignup4"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JSLH211"
+  }, {
+    "name" : "thread",
+    "value" : "38272@DESKTOP-JSLH211.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "story",
+    "value" : "Check if the user is able to click on the email if there is no passcode"
+  }, {
+    "name" : "suite",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Check if the user is able to click on the email if there is no passcode"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.Signup_feature.Signup Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1487230102e66f4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702439397756,
+        "stop" : 1702439418698,
+        "duration" : 20942
+      }
+    }, {
+      "uid" : "cc38ea69dab9a150",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702427082105,
+        "stop" : 1702427103340,
+        "duration" : 21235
+      }
+    }, {
+      "uid" : "89e41f1b8b53e53a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702426479763,
+        "stop" : 1702426596311,
+        "duration" : 116548
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "tag", "positivesignup4" ]
+  },
+  "source" : "a04d4aa82f4a3edb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,200 @@
+{
+  "uid" : "a1ead75d801d570c",
+  "name" : "Check if the user is able to click sign up",
+  "fullName" : "src/test/resources/Features/Signup.feature:6",
+  "historyId" : "eaca0a9af85466b8ef0d5dcb73412daf",
+  "time" : {
+    "start" : 1702441445429,
+    "stop" : 1702441480478,
+    "duration" : 35049
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "stepdefinitions.Hooks.initializeWebdriver()",
+    "time" : {
+      "start" : 1702441445692,
+      "stop" : 1702441478612,
+      "duration" : 32920
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  The user is in the homepage",
+      "time" : {
+        "start" : 1702441478622,
+        "stop" : 1702441478659,
+        "duration" : 37
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When  The user hovers over signup and clicks tamil mass sign up button",
+      "time" : {
+        "start" : 1702441478663,
+        "stop" : 1702441478735,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  The user clicks on submit after entering passcode",
+      "time" : {
+        "start" : 1702441478736,
+        "stop" : 1702441480229,
+        "duration" : 1493
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  The user is navigated to the sign up page",
+      "time" : {
+        "start" : 1702441480230,
+        "stop" : 1702441480278,
+        "duration" : 48
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepdefinitions.Hooks.closedriver()",
+    "time" : {
+      "start" : 1702441480279,
+      "stop" : 1702441480475,
+      "duration" : 196
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "tag"
+  }, {
+    "name" : "tag",
+    "value" : "positivesignup1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JSLH211"
+  }, {
+    "name" : "thread",
+    "value" : "38272@DESKTOP-JSLH211.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "story",
+    "value" : "Check if the user is able to click sign up"
+  }, {
+    "name" : "suite",
+    "value" : "Signup Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Check if the user is able to click sign up"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/amitf/eclipse-workspace/Restassured/DtcWebsite/src/test/resources/Features/Signup.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.Signup_feature.Signup Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "300be6b0d8b48097",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702439246954,
+        "stop" : 1702439290373,
+        "duration" : 43419
+      }
+    }, {
+      "uid" : "cb3c53c0449770d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702438734394,
+        "stop" : 1702438749501,
+        "duration" : 15107
+      }
+    }, {
+      "uid" : "6742d3dbe0f53e6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702426936673,
+        "stop" : 1702426950580,
+        "duration" : 13907
+      }
+    }, {
+      "uid" : "be9705677d6fe6fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702426379739,
+        "stop" : 1702426391906,
+        "duration" : 12167
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "tag", "positivesignup1" ]
+  },
+  "source" : "a1ead75d801d570c.json",
+  "parameterValues" : [ ]
+}

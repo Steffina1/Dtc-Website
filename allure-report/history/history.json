@@ -1,0 +1,446 @@
+{
+  "2b9e5e5bc1c9fd6e2cd04b1491bdbddc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd82424950d4a5e",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/dd82424950d4a5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441893396,
+        "stop" : 1702441928513,
+        "duration" : 35117
+      }
+    } ]
+  },
+  "f521b0b3b0b7b1bc2145b8c8f5a90b0e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ccb79623ed3d3c4",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/3ccb79623ed3d3c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441594692,
+        "stop" : 1702441693758,
+        "duration" : 99066
+      }
+    } ]
+  },
+  "fc96b8fc76a05896ac80f793474e1942" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f895e6ffe42013e2",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/f895e6ffe42013e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441693783,
+        "stop" : 1702441701570,
+        "duration" : 7787
+      }
+    } ]
+  },
+  "c20fee79cfef5330e5cd526d8f3a367f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f36eced72da4b392",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/f36eced72da4b392",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441953959,
+        "stop" : 1702441961347,
+        "duration" : 7388
+      }
+    } ]
+  },
+  "d0df16e86c4a407cc106684b22531723" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d51bafdf23ca9819",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/d51bafdf23ca9819",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441976647,
+        "stop" : 1702441996758,
+        "duration" : 20111
+      }
+    } ]
+  },
+  "96652919e2bff94d28de806f8d87dcc8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a04d4aa82f4a3edb",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/a04d4aa82f4a3edb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441701593,
+        "stop" : 1702441719957,
+        "duration" : 18364
+      }
+    } ]
+  },
+  "bc4e9bcd1ca99db98b0790768bd8db8f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4fd6ea7a1e5c7fd",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/f4fd6ea7a1e5c7fd",
+      "status" : "broken",
+      "statusDetails" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.12.1', revision: '8e34639b11'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6780c749fe401313915a797e8640deb4, clickElement {id=4CE186E649BD48F382D331A1B35D7741_element_34}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\\Users\\amitf\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63752}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63752/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (6780c749fe401313915a797e8640deb4)] -> xpath: //*[contains(text(), 'Submit')]]\nSession ID: 6780c749fe401313915a797e8640deb4",
+      "time" : {
+        "start" : 1702439861358,
+        "stop" : 1702440062144,
+        "duration" : 200786
+      }
+    } ]
+  },
+  "2e705e550e0a7e854b7d2b1913d5aee5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7376b6ad56ed83ea",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/7376b6ad56ed83ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441720126,
+        "stop" : 1702441828221,
+        "duration" : 108095
+      }
+    } ]
+  },
+  "eaca0a9af85466b8ef0d5dcb73412daf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1ead75d801d570c",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/a1ead75d801d570c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441445429,
+        "stop" : 1702441480478,
+        "duration" : 35049
+      }
+    } ]
+  },
+  "1dee9a0f8765f8a4ca0ebf09d3f11b4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b72b1fc3971d8556",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/b72b1fc3971d8556",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441828242,
+        "stop" : 1702441844800,
+        "duration" : 16558
+      }
+    } ]
+  },
+  "9ba285b32f69d7aeafe98e8037ba5d69" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed796b3f15e2b6c0",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/ed796b3f15e2b6c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702442020183,
+        "stop" : 1702442054781,
+        "duration" : 34598
+      }
+    } ]
+  },
+  "1439d627526cd57af813a8f390f65249" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d566d60c009e4c00",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/d566d60c009e4c00",
+      "status" : "skipped",
+      "statusDetails" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.12.1', revision: '8e34639b11'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4fd3f3a34286fa86988f672e4a1de13b, get {url=https://dallastamilcatholics.net/signup-link/signup?id=75}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\\Users\\amitf\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63886}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63886/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 4fd3f3a34286fa86988f672e4a1de13b",
+      "time" : {
+        "start" : 1702440062170,
+        "stop" : 1702440249110,
+        "duration" : 186940
+      }
+    } ]
+  },
+  "7d47d475da6d34060d24e5be9bbd80d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "768f942f89962993",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/768f942f89962993",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702439853957,
+        "stop" : 1702439861343,
+        "duration" : 7386
+      }
+    } ]
+  },
+  "898f84e78dc972386859d04bc0133e41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8cf5007701e86927",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/8cf5007701e86927",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702442005494,
+        "stop" : 1702442020167,
+        "duration" : 14673
+      }
+    } ]
+  },
+  "72c0b0536a697f792c3f40cba03a6954" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43cb75914fa1a9bb",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/43cb75914fa1a9bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441928543,
+        "stop" : 1702441953942,
+        "duration" : 25399
+      }
+    } ]
+  },
+  "725036d4551c8e4c10415b31f2d8fc22" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be40848fb60f9950",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/be40848fb60f9950",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441961369,
+        "stop" : 1702441967098,
+        "duration" : 5729
+      }
+    } ]
+  },
+  "9ee37954dfdc997ea6bdf19695449e61" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2d2d2426274bcb9",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/d2d2d2426274bcb9",
+      "status" : "failed",
+      "statusDetails" : "expected [12-12-2023] but found [12-13-2023]",
+      "time" : {
+        "start" : 1702441844822,
+        "stop" : 1702441893371,
+        "duration" : 48549
+      }
+    } ]
+  },
+  "c246390151fac41cda78d42a9cbd2831" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1869afab9ab31b76",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/1869afab9ab31b76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441996780,
+        "stop" : 1702442005470,
+        "duration" : 8690
+      }
+    } ]
+  },
+  "f73219e202c50e70e0e2d4e7292792fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47c76888ba398b19",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/47c76888ba398b19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702442054795,
+        "stop" : 1702442090154,
+        "duration" : 35359
+      }
+    } ]
+  },
+  "4f6bc939fafc1a965ba67e074072b3bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3ac942d8767c043",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/f3ac942d8767c043",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441493137,
+        "stop" : 1702441594665,
+        "duration" : 101528
+      }
+    } ]
+  },
+  "578c57e0d52d51b11a2186cdcd03cba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b098e5f16948115",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/6b098e5f16948115",
+      "status" : "passed",
+      "time" : {
+        "start" : 1702441480662,
+        "stop" : 1702441492800,
+        "duration" : 12138
+      }
+    } ]
+  },
+  "ee47ffe8376daed3ba35fccbf1a10836" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c73dea6785df3b3",
+      "reportUrl" : "http://localhost:8080/job/DTCWebsite/7/allure/#testresult/3c73dea6785df3b3",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [Please make sure all the required fields are completed] but found [null]",
+      "time" : {
+        "start" : 1702441967117,
+        "stop" : 1702441976630,
+        "duration" : 9513
+      }
+    } ]
+  }
+}
