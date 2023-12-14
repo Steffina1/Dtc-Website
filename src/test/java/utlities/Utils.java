@@ -24,7 +24,7 @@ public class Utils {
 	
 	private Utils(){
 //		WebDriverManager.chromedriver().setup();
-//		driver=new ChromeDriver();
+//		driver=new ChromeDriver(); com
 		System.out.println("opening browser and url");
 		log.info("Openeing fireefox browser");
 		if (browser.equalsIgnoreCase("Firefox")) {
