@@ -70,13 +70,13 @@ public class Hooks  {
 //		 File SrcFile=ts.getScreenshotAs(OutputType.FILE);
 //             File DestFile=new File("C:\\Users\\amitf\\eclipse-workspace\\Restassured\\DtcWebsite\\src\\test\\resources\\Screenshot\\failedshots.png");
 //             FileUtils.copyFile(SrcFile, DestFile);
-////		byte[] src= ts.getScreenshotAs(OutputType.BYTES);
+//		byte[] src= ts.getScreenshotAs(OutputType.BYTES);
 ////		s.attach(src, "image/png", "screenshot");
 //}
 //}
 @After
 public void closedriver() {
-	System.out.println("driver close");
+	System.out.println("driver is closed");
 	Utils.getDriver().close();
 }
 }
