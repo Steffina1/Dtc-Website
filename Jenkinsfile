@@ -7,8 +7,5 @@ node{
     stage('SCM checkout'){
     git 'https://github.com/Steffina1/Dtc-Website'
       }
-    stage('Compile-Package'){
-      sh 'mvn package'
-    } 
 }
 
