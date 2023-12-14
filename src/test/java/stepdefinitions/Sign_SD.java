@@ -41,7 +41,7 @@ import ru.yandex.qatools.ashot.Screenshot;
 import ru.yandex.qatools.ashot.comparison.ImageDiff;
 import ru.yandex.qatools.ashot.comparison.ImageDiffer;
 import utlities.Utils;
-//author steffi
+//author steffi making commit
 public class Sign_SD  {
 	private WebDriver driver = Utils.getDriver();
 	public static List<Object> nameselected= new ArrayList<Object>();
