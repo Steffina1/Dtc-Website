@@ -76,7 +76,7 @@ public class Hooks  {
 //}
 @After
 public void closedriver() {
-	System.out.println("driver close");
+	System.out.println("driver is closed");
 	Utils.getDriver().close();
 }
 }
